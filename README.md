@@ -9,6 +9,7 @@ https://github.com/WyattIsaac/HP-Pavilion-15-bc215TX-Hackintosh/releases
 
 https://github.com/ExodazTH/Opencore-on-HP-Pavilion-Gaming-15-cx0172tx
 
+https://github.com/shimakazechan/OMEN-by-HP-3-Hackintosh
 
 ### - 教程Wiki
 
