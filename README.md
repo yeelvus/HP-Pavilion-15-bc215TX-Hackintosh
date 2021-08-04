@@ -14,9 +14,7 @@ https://gitee.com/shuiyunxc/OpenCore-Configurator/releases
 
 https://dortania.github.io/OpenCore-Install-Guide/
 
-#### OpenCore 简体中文参考手册
-
-非官方维护的 OpenCore 参考手册的简体中文翻译
+#### OpenCore 简体中文参考手册(非官方维护的 OpenCore 参考手册的简体中文翻译)
 
 https://oc.skk.moe
 
