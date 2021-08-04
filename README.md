@@ -1,6 +1,11 @@
 ## HP-Pavilion-15-bc215TX-Hackintosh
 最后更新-2021-08-04
 
+### OpenCore
+https://github.com/acidanthera/OpenCorePkg
+
+
+
 ### - EFI文件下载⏬
 
 https://github.com/WyattIsaac/HP-Pavilion-15-bc215TX-Hackintosh/releases
