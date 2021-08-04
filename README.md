@@ -5,6 +5,9 @@
 ### OpenCore
 https://github.com/acidanthera/OpenCorePkg
 
+### OpenCore-Configurator
+https://gitee.com/shuiyunxc/OpenCore-Configurator/releases
+
 ### 相关OpenCore链接🔗 准备学习
 
 #### Dortania's OpenCore Install Guide
@@ -16,6 +19,10 @@ https://dortania.github.io/OpenCore-Install-Guide/
 非官方维护的 OpenCore 参考手册的简体中文翻译
 
 https://oc.skk.moe
+
+#### OpenCore黑苹果引导配置说明
+
+https://shuiyunxc.gitee.io/2020/03/10/instru/index/
 
 https://github.com/zty199/HP_Pavilion_15-cb073tx_Hackintosh
 
