@@ -6,10 +6,8 @@
 https://github.com/WyattIsaac/HP-Pavilion-15-bc215TX-Hackintosh/releases
 
 ### 其他相关OpenCore链接🔗 准备学习
+https://github.com/zty199/HP_Pavilion_15-cb073tx_Hackintosh
 
-https://github.com/ExodazTH/Opencore-on-HP-Pavilion-Gaming-15-cx0172tx
-
-https://github.com/shimakazechan/OMEN-by-HP-3-Hackintosh
 
 ### - 教程Wiki
 
