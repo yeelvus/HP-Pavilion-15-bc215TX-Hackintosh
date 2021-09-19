@@ -7,6 +7,7 @@ https://github.com/acidanthera/OpenCorePkg
 
 ### OpenCore-Configurator
 https://gitee.com/shuiyunxc/OpenCore-Configurator/releases
+544133143
 
 ### 相关OpenCore链接🔗 准备学习
 
