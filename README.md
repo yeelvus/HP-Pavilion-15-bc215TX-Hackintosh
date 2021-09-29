@@ -23,6 +23,3 @@ https://oc.skk.moe
 #### OpenCore黑苹果引导配置说明
 
 https://github.com/zty199/HP_Pavilion_15-cb073tx_Hackintosh
-
-
- 
