@@ -10,6 +10,21 @@ https://gitee.com/shuiyunxc/OpenCore-Configurator/releases
 
 544133143
 
+### 网卡
+· Broadcom BCM94352z/DW1560驱动新姿势[新方法]
+
+https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html
+
+· AirportBrcmFixup（网卡wifi）
+
+https://github.com/acidanthera/AirportBrcmFixup
+
+· BrcmPatchRAM 3（蓝牙）
+
+BrcmFirmwareData.kext和BrcmPatchRAM3.kext
+
+https://github.com/acidanthera/BrcmPatchRAM
+
 
 #### OpenCore黑苹果引导配置说明
 
