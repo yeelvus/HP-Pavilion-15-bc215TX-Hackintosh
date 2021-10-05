@@ -26,7 +26,7 @@ BrcmFirmwareData.kext和BrcmPatchRAM3.kext
 https://github.com/acidanthera/BrcmPatchRAM
 
 
-#### OpenCore黑苹果引导配置说明
+#### 感谢zty199大佬的引导配置，本efi只做了少量修改
 
 https://github.com/zty199/HP_Pavilion_15-cb073tx_Hackintosh
 
