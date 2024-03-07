@@ -1,6 +1,8 @@
 ## HP-Pavilion-15-bc215TX-Hackintosh
 
-最后更新-2022-03-23 更新OC 0.7.9
+最后更新-2022-03-23 更新OC 0.9.7
+
+https://github.com/yeelvus/HP-Pavilion-15-bc215TX-Hackintosh/releases
 
 ### OpenCore
 https://github.com/acidanthera/OpenCorePkg
