@@ -1,6 +1,6 @@
 ## HP-Pavilion-15-bc215TX-Hackintosh
 
-最后更新-2022-03-23 更新OC 0.9.7
+最后更新-2024-09-18 更新OC 1.0.1
 
 https://github.com/yeelvus/HP-Pavilion-15-bc215TX-Hackintosh/releases
 
