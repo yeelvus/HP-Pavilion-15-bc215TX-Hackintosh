@@ -7,8 +7,8 @@ https://github.com/yeelvus/HP-Pavilion-15-bc215TX-Hackintosh/releases
 ### OpenCore
 https://github.com/acidanthera/OpenCorePkg
 
-### OpenCore-Configurator
-https://gitee.com/shuiyunxc/OpenCore-Configurator/releases
+### OCAuxiliaryTools
+[https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.1](https://github.com/ic005k/OCAuxiliaryTools/releases)
 
 544133143
 
