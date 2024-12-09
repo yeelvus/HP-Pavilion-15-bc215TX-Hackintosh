@@ -42,3 +42,6 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 https://oc.skk.moe
 
+### The end
+黑苹果的尽头是白苹果，现在已经使用2021款 m1pro MacBookPro
+
